@@ -41,3 +41,5 @@
 ## Program 1
 
 <img width="732" alt="AAN3" src="https://user-images.githubusercontent.com/115763475/199910193-8f3748fd-6a56-46dc-a9a0-ce004b6f6a46.png">
+
+## ========= SELESAI =========
